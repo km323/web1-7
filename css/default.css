@@ -11,10 +11,15 @@ background-color:gray;
 header{
 background-color:orange;
 }
-#main1{
-background-color:green;
+#main{
+background-color:white;
   width:calc(100%-200px);
   min-width:500px;
+  float:left;
+}
+#main1{
+background-color:green;
+  width:500px;
   float:left;
 }
 #main2{
