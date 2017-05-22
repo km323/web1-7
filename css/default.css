@@ -15,7 +15,7 @@ background-color:orange;
   left:0;
   top:0;
   width:100%;
-  
+  z-index:+1;
 }
 .box{
 background-color:red;
