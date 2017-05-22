@@ -26,6 +26,12 @@ background-color:red;
   float:left;
   overflow:hidden;
 }
+#good_picture{
+width:24px;
+  position:absolute;
+  left:50px;
+  top:50px;
+}
 #main{
 background-color:white;
   width:calc(100%-200px);
