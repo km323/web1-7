@@ -13,13 +13,21 @@ background-color:orange;
 }
 #main1{
 background-color:green;
+  width:calc(100%-200px);
+  min-width:500px;
+  float:left;
 }
 #main2{
 background-color:yellow;
+  width:500px;
+  float:left;
 }
 aside{
 background-color:blue;
+  width:200px;
+  float:right;
 }
 footer{
 background-color:purple;
+  clear:both;
 }
